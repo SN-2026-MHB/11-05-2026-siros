@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-11T11:34:27.697740+00:00",
+  "updated_at": "2026-05-11T11:34:27.155190+00:00",
   "data_referencia": "2026-05-11",
-  "airport_icao": "SBGL",
-  "airport_name": "SBGL",
+  "airport_icao": "SBCP",
+  "airport_name": "SBCP",
   "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
