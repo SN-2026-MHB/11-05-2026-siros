@@ -1,13 +1,3 @@
-"""
-fetch_flights.py — SIROS/ANAC v2
-Correcoes aplicadas:
-  1. URL base corrigida: /sas/siros_api/voos (sem /api/)
-  2. Resposta da API e string JSON com duplo encode — json.loads() duplo
-  3. Campo correto da empresa: sg_empresa_icao
-  4. Parsing de data no formato DD/MM/YYYY HH:MM
-  5. Tipo de operacao extraido do campo ds_tipo_servico
-"""
-
 import json
 import os
 from datetime import datetime, timezone, timedelta
